@@ -16,4 +16,4 @@ gh rc --help
 
 - `osx-arm64` seems to have stability problems due to .net8.0 memory corruptions
 - `linux-*` seems to be unable to provide musl binaries as well, static linking not possible
-- TODO `GITHUB_TOKEN` secret and `GHES` domain not applied automatically yet
+- TODO ~~`GITHUB_TOKEN` secret and~~ `GHES` domain not applied automatically yet
